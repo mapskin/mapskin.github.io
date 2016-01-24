@@ -518,7 +518,7 @@ code {
 
 @media (max-width: 767px) {
   .intro-header .site-heading h1,.intro-header .page-heading h1 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 400;
   }
 
@@ -535,6 +535,10 @@ code {
     margin-top: 0 !important;
     margin-bottom: 2em;
   }
+  .hdl {
+  font-size: 22px !important;
+  line-height: 32px !important;
+}
 }
 
 /* icons carousel */
@@ -1122,7 +1126,7 @@ h2.sectl {
 @media (max-width: 970px) {
   .admap,.gsmapt,.gsmapmd {
     width: 100%;
-    min-height: 600px !important;
+    min-height: 640px !important;
     margin-bottom: 30px;
   }
 
