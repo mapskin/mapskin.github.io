@@ -1,7 +1,5 @@
 # [mapsk.in](http://mapsk.in)
 
-## mapsk.in, home of the geospatial web font
-
 <table>
 <tr>
 <td>
@@ -10,6 +8,7 @@
  </a>
  </td>
  <td>
+ <h2>mapsk.in, home of the geospatial web font</h2>
  <p>This is the official website for the mapskin geospatial web font
 project, created and maintained by Nicolas Bozon and hosted on Github
 at <a href="https://mapskin.github.io" target="_blank">
