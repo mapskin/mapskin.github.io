@@ -6,7 +6,7 @@
 <a href="http://mapsk.in" target="_blank">
  <img
  src="https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png"
- width="150" height="150" alt="mapskin logo" style="width:180px;height:180px;margin:0 10px 0 10px" />
+ width="180" height="180" alt="mapskin logo" style="width:180px;height:180px;margin:0 10px 0 10px" />
  </a>
  </td>
  <td>
