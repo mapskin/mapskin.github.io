@@ -2,9 +2,10 @@
 
 ## mapsk.in, home of the geospatial web font
 
-<p>
+<table><tr><td>
 <img src="https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png" height="200" width="200" alt="mapskin logo" style="float:left;margin:0 10px 0 10px" />
-This is the official website for the mapskin geospatial web font project. [mapsk.in](http://mapsk.in) is created and maintained by Nicolas Bozon, hosted on Github at [mapskin.github.io](https://mapskin.github.io)</p>
+</td>
+<td>This is the official website for the mapskin geospatial web font project. [mapsk.in](http://mapsk.in) is created and maintained by Nicolas Bozon, hosted on Github at [mapskin.github.io](https://mapskin.github.io)</td></tr></table>
 
 ### Contact
 
