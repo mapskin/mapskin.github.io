@@ -2,8 +2,9 @@
 
 ## mapsk.in, home of the geospatial web font
 
-| ![mapskin](https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png)
-| This is the official website for the mapskin geospatial web font project. [mapsk.in](http://mapsk.in) is created and maintained by Nicolas Bozon, hosted on Github at [mapskin.github.io](https://mapskin.github.io) |
+<p>
+<img src="https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png" height="200" width="200" alt="mapskin logo" style="float:left;margin:0 10px 0 10px" />
+This is the official website for the mapskin geospatial web font project. [mapsk.in](http://mapsk.in) is created and maintained by Nicolas Bozon, hosted on Github at [mapskin.github.io](https://mapskin.github.io)</p>
 
 ### Contact
 
@@ -13,16 +14,15 @@
 
 ### Copyright
 
-© 2016 [mapskin](http://mapsk.in) - [Nicolas Bozon ](http://cartogenic.com)
+© 2016 [mapskin](http://mapsk.in) - Nicolas Bozon
 
 ### Credits
 
-[mapsk.in](http://mapsk.in) website built using the following resources. 
-
-  * mapskin ([mapsk.in](http://mapsk.in)) and Font Awesome ([fontawesome.io](http://fontawesome.io)) for icons
-  * OpenLayers ([openlayers.org](http://openlayers.org)) for every maps.
+  * mapskin ([mapsk.in](http://mapsk.in))
+  * Font Awesome ([fontawesome.io](http://fontawesome.io))
+  * OpenLayers ([openlayers.org](http://openlayers.org))
   * Data © OpenStreetMap contributors (([openstreetmap.org](www.openstreetmap.org/copyright))
-  * Tiles © CartoDB ([cartodb.com](https://cartodb.com/attributions))
-  * Tiles © Mapbox ([mapbox.com](https://www.mapbox.com/about/maps/))
+  * Tiles © CartoDB (([cartodb.com](https://cartodb.com/attributions))
+  * Tiles © Mapbox (([mapbox.com](https://www.mapbox.com/about/maps/))
   * Bootstrap ([getbootsrap.com](http://getbootstrap.com/))
   * Jquery ([jquery.com](http://jquery.com/))
