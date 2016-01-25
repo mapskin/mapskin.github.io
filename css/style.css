@@ -1126,7 +1126,7 @@ h2.sectl {
 @media (max-width: 970px) {
   .admap,.gsmapt,.gsmapmd {
     width: 100%;
-    min-height: 640px !important;
+    min-height: 600px !important;
     margin-bottom: 30px;
   }
 
@@ -1198,7 +1198,7 @@ h2.sectl {
 @media (max-width: 768px) {
   .admap {
     width: 100%;
-    min-height: 820px !important;
+    min-height: 860px !important;
     margin-bottom: 0;
   }
 
