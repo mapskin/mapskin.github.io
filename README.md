@@ -4,7 +4,9 @@
 <tr>
 <td>
 <a href="http://mapsk.in" target="_blank">
- <img src="https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png" alt="mapskin logo" style="width:150px;height:150px;margin:0 10px 0 10px" />
+ <img
+ src="https://pbs.twimg.com/profile_images/690223964539506688/K5BvShcL_400x400.png"
+ width="150" height="150" alt="mapskin logo" style="width:150px;height:150px;margin:0 10px 0 10px" />
  </a>
  </td>
  <td>
@@ -18,7 +20,7 @@ project, created and maintained by Nicolas Bozon</p>
 
 ### Contact
 
-Please use one of the following media to contact mapskin
+Please use one of the following to contact mapskin
 
 * Email: hello@mapsk.in
 * Twitter: http://twitter.com/mapskin_
