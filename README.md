@@ -10,7 +10,7 @@
  </a>
  </td>
  <td>
- <h2 style="margin:0;padding:10px 0 0 0;>Home of the geospatial web font</h2>
+ <h2 style="margin:0;padding:10px 0 0 0;">Home of the geospatial web font</h2>
  <p>This is the official website for the mapskin geospatial web font
 project, created and maintained by Nicolas Bozon</p>
 <p> Website hosted on Github at <a href="https://mapskin.github.io" target="_blank"> mapskin.github.io</a>.</br>Copyright © 2016 <a href="http://mapsk.in" target="_blank">mapskin</a> - <a href="http://cartogenic.com" target="_blank">Nicolas Bozon</a></p>
