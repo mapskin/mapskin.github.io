@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 File:	    mapsk.in main javascript
-URL:        http://mapsk.in
+URL:        http://mapsk.in/js/mapskin.js
 Author:     Nicolas Bozon
 Version:    1.0
 -------------------------------------------------------------------*/
