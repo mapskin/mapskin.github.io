@@ -159,9 +159,7 @@ osm.on('postcompose', function(event) {
 var map = new ol.Map({
     layers: [cdbd],
     controls: [],
-    interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-    }),
+    interactions:[],
     target: 'map',
     view: view1
 });
@@ -169,9 +167,7 @@ map.addControl(attrib1);
 var admap = new ol.Map({
     layers: [cdbl],
     controls: [],
-    interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-    }),
+    interactions: [],
     target: 'admap',
     view: view2
 });
@@ -179,9 +175,7 @@ admap.addControl(attrib2);
 var mapt = new ol.Map({
     layers: [cdbl],
     controls: [],
-    interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-    }),
+    interactions: [],
     target: 'mapt',
     view: view4
 });
@@ -189,9 +183,7 @@ mapt.addControl(attrib2);
 var gsmap0 = new ol.Map({
     layers: [mbx],
     controls: [],
-    interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-    }),
+    interactions:[],
     target: 'gsmap0',
     view: view3
 });
@@ -199,54 +191,11 @@ admap.addControl(attrib2);
 var mapb = new ol.Map({
     layers: [cdbd],
     controls: [],
-    interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-    }),
+    interactions:[],
     target: 'mapb',
     view: view2
 });
-/* Dirty dragpan remove */
-var dragPan;
-map.getInteractions().forEach(function(interaction) {
-  if (interaction instanceof ol.interaction.DragPan) {
-    dragPan = interaction;
-  }
-}, this);
-if (dragPan) {
-  map.removeInteraction(dragPan);
-}
-admap.getInteractions().forEach(function(interaction) {
-  if (interaction instanceof ol.interaction.DragPan) {
-    dragPan = interaction;
-  }
-}, this);
-if (dragPan) {
-  admap.removeInteraction(dragPan);
-}
-mapb.getInteractions().forEach(function(interaction) {
-  if (interaction instanceof ol.interaction.DragPan) {
-    dragPan = interaction;
-  }
-}, this);
-if (dragPan) {
-  mapb.removeInteraction(dragPan);
-}
-mapt.getInteractions().forEach(function(interaction) {
-  if (interaction instanceof ol.interaction.DragPan) {
-    dragPan = interaction;
-  }
-}, this);
-if (dragPan) {
-  mapt.removeInteraction(dragPan);
-}
-gsmap0.getInteractions().forEach(function(interaction) {
-  if (interaction instanceof ol.interaction.DragPan) {
-    dragPan = interaction;
-  }
-}, this);
-if (dragPan) {
-  gsmap0.removeInteraction(dragPan);
-}
+
 /* Donwload Modal window */
 var dlmap;
 function loadMap() {
