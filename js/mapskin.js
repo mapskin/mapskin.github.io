@@ -196,17 +196,17 @@ var mapb = new ol.Map({
     view: view2
 });
 
-/* Donwload Modal window */
+/* Download Modal window */
 var dlmap;
 function loadMap() {
     dlmap = new ol.Map({
         layers: [cdbl],
         controls: [],
-        interactions: ol.interaction.defaults({mouseWheelZoom: false}),
+        interactions: [],
         target: 'dlmap',
         view: view2
     });
-    return false;
+return false;
 }
 
 $('#ms-modal').on('shown.bs.modal', function() {
