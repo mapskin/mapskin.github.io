@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 File:	    mapsk.in main javascript
-URL:        http://mapsk.in/js/mapskin.js
+URL:        https://mapsk.in/js/mapskin.js
 Author:     Nicolas Bozon
 Version:    1.0
 -------------------------------------------------------------------*/
@@ -112,7 +112,7 @@ var view4 = new ol.View({
 });
 var cdbd = new ol.layer.Tile({
     source: new ol.source.XYZ({
-        url: 'http://s.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png',
+        url: 'https://s.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png',
         attributions: [new ol.Attribution({
             html: [
                 '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://cartodb.com/attributions">CartoDB</a>'
@@ -133,10 +133,10 @@ var cdbl = new ol.layer.Tile({
 });
 var mbx = new ol.layer.Tile({
     source: new ol.source.XYZ({
-        url: 'http://api.tiles.mapbox.com/v4/mapbox.dark/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY2FydG9nZW5pYyIsImEiOiI4ZGEyZWJiNmY2ZjY1YWQ1MjA4Y2Y5MWFmMDJlMTVhMCJ9.j0S-qDFH4JEIJ8LAxrFGdQ',
+        url: 'https://api.tiles.mapbox.com/v4/mapbox.dark/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY2FydG9nZW5pYyIsImEiOiI4ZGEyZWJiNmY2ZjY1YWQ1MjA4Y2Y5MWFmMDJlMTVhMCJ9.j0S-qDFH4JEIJ8LAxrFGdQ',
         attributions: [new ol.Attribution({
             html: [
-                '<a href="https://www.mapbox.com/map-feedback/" class="brd mbx" target="_blank">Mapbox</a><span class="cdts"><a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</span>'
+                '<a href="https://www.mapbox.com/map-feedback/" class="brd mbx" target="_blank">Mapbox</a><span class="cdts"><a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</span>'
             ]
         })]
     }),
